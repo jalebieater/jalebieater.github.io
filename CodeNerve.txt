@@ -3,16 +3,12 @@
 
 <p><strong>NAME</strong>
 </p>
-<div class="about-indented">kati - just kati...
-     (I use Arch btw.)
+<div class="about-indented">Siddarth
 </div>
-
 <p><strong>SYNOPSIS</strong>
 </p>
 <p class="about-indented"><strong>kati</strong> [OPTION]... [FILE]...
 </p>
-
-
 <p><strong>DESCRIPTION</strong>
 </p>
 <div class="about-indented"><strong>kati</strong> is a teminal tool/game from the 90s available for Linux
