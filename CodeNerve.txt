@@ -69,13 +69,13 @@ warning: can cause overheating and unpredictable overreactions
 </p>
 <div class="about-indented-deep">activate 3D-printing capability
 </div>
-<div class="about-indented">(Note: execution of code with <strong>Siddarth</strong> is still buggy.
+<div class="about-indented">.    (Note: execution of code with <strong>Siddarth</strong> is still buggy.
        In some cases it doesn't work at all, in other cases <strong>Siddarth</strong>
        just takes forever to finish execution)
 </div>
 <p><strong>BUGS</strong>
 </p>
-<div class="about-indented">plenty
+<div class="about-indented">.    plenty
 </div>
 </p></div></div></div>
 
