@@ -7,17 +7,17 @@
 </div>
 <p><strong>SYNOPSIS</strong>
 </p>
-<p class="about-indented"><strong>kati</strong> [OPTION]... [FILE]...
+<p class="about-indented"><strong>siddarth</strong> [OPTION]... [FILE]...
 </p>
 <p><strong>DESCRIPTION</strong>
 </p>
-<div class="about-indented"><strong>kati</strong> is a teminal tool/game from the 90s available for Linux
+<div class="about-indented"><strong>Siddarth</strong> is a teminal tool/game from the 90s available for Linux
 or BSD platforms, preferably Arch, Gentoo or OpenBSD.
-<strong>kati</strong> works best with Emacs, other editors cause unpredictable and
+<strong>Siddarth</strong> works best with Emacs, other editors cause unpredictable and
 most likely undesired behaviour.
-Although <strong>kati</strong> is device-independent best results are achieved on
+Although <strong>Siddarth</strong> is device-independent best results are achieved on
 Thinkpads.
-<strong>kati</strong> can also be used outdoor, mainly to explore abandoned buildings
+<strong>Siddarth</strong> can also be used outdoor, mainly to explore abandoned buildings
 </div>
 <p><strong>-asm</strong>
 </p>
@@ -30,7 +30,7 @@ Thinkpads.
 <p><strong>-c</strong>, <strong>--club-mate</strong>
 </p>
 <div class="about-indented-deep">activates Club Mate mode: every task gets executed 3 times faster
-when <strong>kati</strong> gets at least 1 bottle of Club Mate as input
+when <strong>Siddarth</strong> gets at least 1 bottle of Club Mate as input
 (execution time can be further improved with the <strong>pizza</strong> or
 <strong>chocolate</strong> hack.
 </div>
@@ -41,7 +41,7 @@ when <strong>kati</strong> gets at least 1 bottle of Club Mate as input
 <p><strong>-CSS/HTML-</strong>
 </p>
 <div class="about-indented-deep">use this option <strong>only in emergencies</strong>
-<strong>kati</strong> is not suitable for web development
+<strong>Siddarth</strong> is not suitable for web development
 you'll get results but most likely not the ones you expected
 </div>
 <p><strong>-DnD</strong>
@@ -69,18 +69,13 @@ warning: can cause overheating and unpredictable overreactions
 </p>
 <div class="about-indented-deep">activate 3D-printing capability
 </div>
-<div class="about-indented">(Note: execution of code with <strong>kati</strong> is still buggy.
-       In some cases it doesn't work at all, in other cases <strong>kati</strong>
+<div class="about-indented">(Note: execution of code with <strong>Siddarth</strong> is still buggy.
+       In some cases it doesn't work at all, in other cases <strong>Siddarth</strong>
        just takes forever to finish execution)
 </div>
 <p><strong>BUGS</strong>
 </p>
 <div class="about-indented">plenty
 </div>
-<p><strong>AUTHORS</strong>
-</p>
-<div class="about-indented">Siddarth
-</div>
-<p><strong>COPYRIGHT</strong>
-</p>
-</p></div></div></div></body>
+</p></div></div></div>
+
