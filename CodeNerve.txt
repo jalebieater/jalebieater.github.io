@@ -79,19 +79,8 @@ warning: can cause overheating and unpredictable overreactions
 </div>
 <p><strong>AUTHORS</strong>
 </p>
-<div class="about-indented">kati's parents
+<div class="about-indented">Siddarth
 </div>
 <p><strong>COPYRIGHT</strong>
 </p>
-<div class="about-indented">changes and redistribution of <strong>kati</strong> are prohibited by law
-</div>
-
-
-<div class="about">
-   <div class="about-column">KATI(6)</div>
-   <div class="about-column">Games Manual</div>
-   <div class="about-column">KATI(6)</div>
-</div>
-<div id="postamble">Made with Emacs :)
-<p><a href="disclaimer.html"> Disclaimer </a>
-</p></div></div></div></div></body>
+</p></div></div></div></body>
