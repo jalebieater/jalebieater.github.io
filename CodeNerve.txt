@@ -1,14 +1,9 @@
 <span id="a">siddarth@cybertrauma</span>:<span id="b">~</span><span id="c">$</span> cd CyberTrauma/<!-- kjsdfhkjdhsfkjdshfkj -->Profiles
-<span id="a">siddarth@cybertrauma</span>:<span id="b">~</span><span id="c">$</span> man <!-- kjsdfhkjdhsfkjdshfkj -->siddarth<br/><br/>
-
-<p><strong>NAME</strong>
-</p>
-<div class="about-indented">Siddarth
-</div>
-<p><strong>SYNOPSIS</strong>
-</p>
-<p class="about-indented"><strong>siddarth</strong> [OPTION]... [FILE]...
-</p>
+<span id="a">siddarth@cybertrauma</span>:<span id="b">~</span><span id="c">$</span> man <!-- kjsdfhkjdhsfkjdshfkj -->siddarth<br/>
+<p><strong>NAME</strong></p>
+<div class="about-indented">    Siddarth</div>
+<p><strong>SYNOPSIS</strong></p>
+<p class="about-indented"><strong>siddarth</strong> [OPTION]... [FILE]...</p>
 <p><strong>DESCRIPTION</strong>
 </p>
 <div class="about-indented"><strong>Siddarth</strong> is a teminal tool/game from the 90s available for Linux
