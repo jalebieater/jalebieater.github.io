@@ -6,15 +6,15 @@
 <p class="about-indented"><strong>siddarth</strong> [OPTION]... [FILE]...</p>
 <p><strong>DESCRIPTION</strong>
 </p>
-<div class="about-indented"><strong>Siddarth</strong> is a teminal tool/game from the 90s available for Linux
+<strong>Siddarth</strong> is a teminal tool/game from the 90s available for Linux
 or BSD platforms, preferably Arch, Gentoo or OpenBSD.
 <strong>Siddarth</strong> works best with Emacs, other editors cause unpredictable and
 most likely undesired behaviour.
 Although <strong>Siddarth</strong> is device-independent best results are achieved on
 Thinkpads.
-<strong>Siddarth</strong> can also be used outdoor, mainly to explore abandoned buildings</div>
+<strong>Siddarth</strong> can also be used outdoor, mainly to explore abandoned buildings
 <p><strong>-b</strong>, <strong>--bash</strong></p>
-<div class="about-indented-deep">read or write Bash scripts</div>
+read or write Bash scripts
 <p><strong>-c</strong>, <strong>--coffee</strong></p>
 <div class="about-indented-deep">activates Coffee mode: every task gets executed 3 times faster
 when <strong>Siddarth</strong> gets at least 1 big cup of Coffee as input
