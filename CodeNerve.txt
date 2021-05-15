@@ -22,12 +22,12 @@ Thinkpads.
 </p>
 <div class="about-indented-deep">read or write Bash scripts
 </div>
-<p><strong>-c</strong>, <strong>--club-mate</strong>
+<p><strong>-c</strong>, <strong>--coffee</strong>
 </p>
-<div class="about-indented-deep">activates Club Mate mode: every task gets executed 3 times faster
-when <strong>Siddarth</strong> gets at least 1 bottle of Club Mate as input
+<div class="about-indented-deep">activates Coffee mode: every task gets executed 3 times faster
+when <strong>Siddarth</strong> gets at least 1 big cup of Coffee as input
 (execution time can be further improved with the <strong>pizza</strong> or
-<strong>chocolate</strong> hack.
+<strong>chocolate</strong> hack.)
 </div>
 <p><strong>-C/C++</strong>
 </p>
@@ -36,26 +36,10 @@ when <strong>Siddarth</strong> gets at least 1 bottle of Club Mate as input
 <p><strong>-CSS/HTML-</strong>
 </p>
 <div class="about-indented-deep">use this option <strong>only in emergencies</strong>
-<strong>Siddarth</strong> is not suitable for web development
-you'll get results but most likely not the ones you expected
+<strong>Siddarth</strong> is not suitable for web development you'll get results but most likely not the ones you expected
 </div>
-<p><strong>-DnD</strong>
-</p>
-<div class="about-indented-deep">activate Dungeons &amp; Dragons mode: an advanced AI generates exciting
-and absurd (and unnecessarily brutal) campagnes for a Massive Multiplayer
-Tabletop Roleplay Game
-</div>
-<p><strong>-h</strong>, <strong>--haskell</strong>       
-</p>
-<div class="about-indented-deep">read or write Haskell code
-side effects: can result in lectures about why everyone should use
-xmonad as WM
-</div>
-<p><strong>-l</strong>, <strong>--lisp</strong>
-</p>
-<div class="about-indented-deep">read or write Lisp code
-warning: can cause overheating and unpredictable overreactions
-</div>
+<p><strong>-s,--swift</strong></p>
+
 <p><strong>-p</strong>, <strong>--python</strong>
 </p>
 <div class="about-indented-deep">read or write Python code
@@ -64,13 +48,12 @@ warning: can cause overheating and unpredictable overreactions
 </p>
 <div class="about-indented-deep">activate 3D-printing capability
 </div>
-<div class="about-indented">.    (Note: execution of code with <strong>Siddarth</strong> is still buggy.
+<div class="about-indented">(Note: execution of code with <strong>Siddarth</strong> is still buggy.
        In some cases it doesn't work at all, in other cases <strong>Siddarth</strong>
        just takes forever to finish execution)
 </div>
 <p><strong>BUGS</strong>
 </p>
-<div class="about-indented">.    plenty
+<div class="about-indented">plenty
 </div>
 </p></div></div></div>
-
