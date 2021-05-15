@@ -11,30 +11,30 @@ or BSD platforms, preferably Arch, Gentoo or OpenBSD.
 most likely undesired behaviour.
 Although <strong>Siddarth</strong> is device-independent best results are achieved on
 Thinkpads.
-<strong>Siddarth</strong> can also be used outdoor, mainly to explore abandoned buildings
+<strong>Siddarth</strong> can also be used outdoor, mainly to explore abandoned buildings<br>
 <strong>-b</strong>, <strong>--bash</strong>
-read or write Bash scripts
+read or write Bash scripts<br>
 <strong>-c</strong>, <strong>--coffee</strong>
 activates Coffee mode: every task gets executed 3 times faster
 when <strong>Siddarth</strong> gets at least 1 big cup of Coffee as input
 (execution time can be further improved with the <strong>pizza</strong> or
-<strong>chocolate</strong> hack.)
+<strong>chocolate</strong> hack.)<br>
 <strong>-C/C++</strong>
-read or write C/C++ code
+read or write C/C++ code<br>
 <strong>-CSS/HTML-</strong>
 use this option <strong>only in emergencies</strong>
 <strong>Siddarth</strong> is not suitable for web development 
-you'll get results but most likely not the ones you expected
+you'll get results but most likely not the ones you expected<br>
 <strong>-s,--swift</strong>
 read or write swift code
 use this option <strong>only in emergencies</strong>
-This section of the tool is currently under development.
+This section of the tool is currently under development.<br>
 <strong>-p</strong>, <strong>--python</strong>
-read or write Python code
+read or write Python code<br>
 <strong>-3d</strong>
 activate 3D-printing capability
 (Note: execution of code with <strong>Siddarth</strong> is still buggy.
        In some cases it doesn't work at all, in other cases <strong>Siddarth</strong>
-       just takes forever to finish execution)
+       just takes forever to finish execution)<br>
 <strong>BUGS</strong>
 plenty
