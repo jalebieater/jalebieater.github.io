@@ -1,42 +1,5 @@
 <span id="a">siddarth@cybertrauma</span>:<span id="b">~</span><span id="c">$</span> cd CyberTrauma/<!-- kjsdfhkjdhsfkjdshfkj -->Profiles
 <span id="a">siddarth@cybertrauma</span>:<span id="b">~</span><span id="c">$</span> man <!-- kjsdfhkjdhsfkjdshfkj -->siddarth<br/>
-<p><strong>NAME</strong></p>
-<div class="about-indented">    Siddarth</div>
-<p><strong>SYNOPSIS</strong></p>
-<p class="about-indented"><strong>siddarth</strong> [OPTION]... [FILE]...</p>
-<p><strong>DESCRIPTION</strong>
-</p>
-<strong>Siddarth</strong> is a teminal tool/game from the 90s available for Linux
-or BSD platforms, preferably Arch, Gentoo or OpenBSD.
-<strong>Siddarth</strong> works best with Emacs, other editors cause unpredictable and
-most likely undesired behaviour.
-Although <strong>Siddarth</strong> is device-independent best results are achieved on
-Thinkpads.
-<strong>Siddarth</strong> can also be used outdoor, mainly to explore abandoned buildings
-<p><strong>-b</strong>, <strong>--bash</strong></p>
-read or write Bash scripts
-<p><strong>-c</strong>, <strong>--coffee</strong></p>
-activates Coffee mode: every task gets executed 3 times faster
-when <strong>Siddarth</strong> gets at least 1 big cup of Coffee as input
-(execution time can be further improved with the <strong>pizza</strong> or
-<strong>chocolate</strong> hack.)
-<p><strong>-C/C++</strong></p>
-read or write C/C++ code
-<p><strong>-CSS/HTML-</strong></p>
-use this option <strong>only in emergencies</strong>
-<strong>Siddarth</strong> is not suitable for web development 
-you'll get results but most likely not the ones you expected
-<p><strong>-s,--swift</strong></p>
-read or write swift code
-use this option <strong>only in emergencies</strong>
-This section of the tool is currently under development.
-<p><strong>-p</strong>, <strong>--python</strong></p>
-<div class="about-indented-deep">read or write Python code</div>
-<p><strong>-3d</strong></p>
-activate 3D-printing capability
-(Note: execution of code with <strong>Siddarth</strong> is still buggy.
-       In some cases it doesn't work at all, in other cases <strong>Siddarth</strong><span id="a">siddarth@cybertrauma</span>:<span id="b">~</span><span id="c">$</span> cd CyberTrauma/<!-- kjsdfhkjdhsfkjdshfkj -->Profiles
-<span id="a">siddarth@cybertrauma</span>:<span id="b">~</span><span id="c">$</span> man <!-- kjsdfhkjdhsfkjdshfkj -->siddarth<br/>
 <strong>NAME</strong>
 Siddarth
 <strong>SYNOPSIS</strong>
